@@ -6,7 +6,7 @@
 
 🛠️ React Native | ReactJS | HTML5 | CSS3 | JavaScript | Figma | Jira
 
-📍 Colegiales, Buenos Aires, Argentina 
+📌 Colegiales, Buenos Aires, Argentina 
 
 💬 santiagom.paz@gmail.com | +54 9 11 5487 6452
 
