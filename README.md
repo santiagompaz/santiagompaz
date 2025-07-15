@@ -1,6 +1,8 @@
 ## ¡Hola, bienvenido a mi perfil de GitHub! 👋
 
-Mi nombre es Santi Paz, soy Desarrollador Frontend (mobile & web apps) con conocimientos en Diseño UX UI y Metodologías Ágiles.
+🙋🏻‍♂️ Mi nombre es Santi Paz, soy Desarrollador Frontend (mobile & web apps) con conocimientos en Diseño UX UI y Metodologías Ágiles.
+
+✔️ Apasionado por el mundo digital, la inteligencia artificial y la tecnología. 
 
 🛠️ React Native | ReactJS | HTML5 | CSS3 | JavaScript | Figma | Jira
 
