@@ -2,7 +2,7 @@
 
 Mi nombre es Santi Paz, soy Desarrollador Frontend (mobile & web apps) con conocimientos en Diseño UX UI y Metodologías Ágiles.
 
-🔭 React Native | ReactJS | HTML5 | CSS3 | JavaScript | Figma | Jira
+🛠️ React Native | ReactJS | HTML5 | CSS3 | JavaScript | Figma | Jira
 
 📍 Colegiales, Buenos Aires, Argentina 
 
